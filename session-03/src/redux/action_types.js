@@ -1,0 +1,1 @@
+export const DELETE_TODO_TYPE = 'DELETE_TODO';
